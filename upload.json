@@ -1,9 +1,14 @@
 [
 	{
-		"last_version_name":"1.0.0",
-		"last_version_code":"1",
+		"last_version_name":"1.0.1.1",
+		"last_version_code":"2",
 		"download_link":"http:\/\/vip.ii90099.com\/subproject\/weup\/uploads\/apks\/ApieceMovie.apk",
 		"update_log":[
+			{
+				"version_name":"1.0.1.1",
+				"version_code":"2",
+				"content":"新增收藏和播放记录功能{br}优化部分代码"
+			},
 			{
 				"version_name":"1.0.0",
 				"version_code":"1",
