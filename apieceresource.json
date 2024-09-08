@@ -8,6 +8,12 @@
     "search":false
   },
   {
+    "name":"360资源",
+    "url":"https://360zy.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
     "name":"快看资源",
     "url":"https://kuaikan-api.com/api.php/provide/vod/?ac=list",
     "show":true,
@@ -90,12 +96,6 @@
     "url":"https://suoniapi.com/api.php/provide/vod/?ac=list",
     "show":true,
     "search":false
-  },
-  {
-    "name":"360资源",
-    "url":"https://360zy.com/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":true
   },
   {
     "name":"闪电资源",
