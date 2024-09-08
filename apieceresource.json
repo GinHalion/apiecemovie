@@ -26,6 +26,36 @@
     "search":true
   },
   {
+    "name":"暴风资源",
+    "url":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"速播资源",
+    "url":"https://subocaiji.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"华为吧资源",
+    "url":"https://cjhwba.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"天空资源",
+    "url":"https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"红牛资源",
+    "url":"https://www.hongniuzy2.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
     "name":"新浪资源",
     "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/?ac=list",
     "show":true,
@@ -62,6 +92,12 @@
     "search":true
   },
   {
+    "name":"同性恋资源🔞",
+    "url":"https://gayapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
     "name":"森林资源🔞",
     "url":"https://slapibf.com/api.php/provide/vod/?ac=list",
     "show":true,
@@ -70,6 +106,24 @@
   {
     "name":"精品资源🔞",
     "url":"https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"鸡坤资源🔞",
+    "url":"https://jkunzy.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"森林资源🔞",
+    "url":"https://slapibf.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"155资源🔞",
+    "url":"https://155api.com/api.php/provide/vod/?ac=list",
     "show":true,
     "search":true
   },
