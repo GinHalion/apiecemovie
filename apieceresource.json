@@ -8,6 +8,18 @@
     "search":false
   },
   {
+    "name":"快看资源",
+    "url":"https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":false
+  },
+  {
+    "name":"黑木耳资源",
+    "url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":false
+  },
+  {
     "name":"虎牙资源",
     "url":"https://www.huyaapi.com/api.php/provide/vod/?ac=list",
     "show":true,
@@ -26,12 +38,6 @@
     "search":true
   },
   {
-    "name":"暴风资源",
-    "url":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":true
-  },
-  {
     "name":"速播资源",
     "url":"https://subocaiji.com/api.php/provide/vod/?ac=list",
     "show":true,
@@ -46,12 +52,6 @@
   {
     "name":"天空资源",
     "url":"https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":true
-  },
-  {
-    "name":"红牛资源",
-    "url":"https://www.hongniuzy2.com/api.php/provide/vod/?ac=list",
     "show":true,
     "search":true
   },
@@ -86,8 +86,62 @@
     "search":true
   },
   {
+    "name":"索尼资源",
+    "url":"https://suoniapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"360资源",
+    "url":"https://360zy.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"牛牛资源",
+    "url":"https://api.niuniuzy.me/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"丫丫资源",
+    "url":"https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"越南🇻🇳资源",
+    "url":"https://vnzyz.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"闪电资源",
+    "url":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"暴风资源",
+    "url":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":false
+  },
+  {
+    "name":"红牛资源",
+    "url":"https://www.hongniuzy2.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":false
+  },
+  {
     "name":"鸡坤资源🔞",
     "url":"https://jkunzy.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"番号资源🔞",
+    "url":"http://fhapi9.com/api.php/provide/vod/?ac=list",
     "show":true,
     "search":true
   },
@@ -111,13 +165,7 @@
   },
   {
     "name":"鸡坤资源🔞",
-    "url":"https://jkunzy.com/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":true
-  },
-  {
-    "name":"森林资源🔞",
-    "url":"https://slapibf.com/api.php/provide/vod/?ac=list",
+    "url":"https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
     "show":true,
     "search":true
   },
@@ -135,4 +183,4 @@
   }
   ],
   "msg":"获取成功"
-}
+  }
