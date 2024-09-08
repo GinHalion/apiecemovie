@@ -98,12 +98,6 @@
     "search":true
   },
   {
-    "name":"越南🇻🇳资源",
-    "url":"http://vnzyz.com/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":false
-  },
-  {
     "name":"闪电资源",
     "url":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "show":true,
