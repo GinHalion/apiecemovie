@@ -89,7 +89,7 @@
     "name":"索尼资源",
     "url":"https://suoniapi.com/api.php/provide/vod/?ac=list",
     "show":true,
-    "search":true
+    "search":false
   },
   {
     "name":"360资源",
@@ -98,28 +98,16 @@
     "search":true
   },
   {
-    "name":"牛牛资源",
-    "url":"https://api.niuniuzy.me/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":true
-  },
-  {
-    "name":"丫丫资源",
-    "url":"https://cj.yayazy.net/api.php/provide/vod/?ac=list",
-    "show":true,
-    "search":true
-  },
-  {
     "name":"越南🇻🇳资源",
-    "url":"https://vnzyz.com/api.php/provide/vod/?ac=list",
+    "url":"http://vnzyz.com/api.php/provide/vod/?ac=list",
     "show":true,
-    "search":true
+    "search":false
   },
   {
     "name":"闪电资源",
     "url":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
     "show":true,
-    "search":true
+    "search":false
   },
   {
     "name":"暴风资源",
@@ -183,4 +171,4 @@
   }
   ],
   "msg":"获取成功"
-  }
+}
