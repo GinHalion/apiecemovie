@@ -23,7 +23,7 @@
     "name":"非凡资源",
     "url":"http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
     "show":true,
-    "search":false
+    "search":true
   },
   {
     "name":"黑木耳资源",
