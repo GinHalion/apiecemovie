@@ -20,6 +20,12 @@
     "search":false
   },
   {
+    "name":"非凡资源",
+    "url":"http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":false
+  },
+  {
     "name":"黑木耳资源",
     "url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
     "show":true,
@@ -114,6 +120,18 @@
     "url":"https://www.hongniuzy2.com/api.php/provide/vod/?ac=list",
     "show":true,
     "search":false
+  },
+  {
+    "name":"啪啪资源🔞",
+    "url":"http://5ipfclyouz.duduo.vip/6/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
+  },
+  {
+    "name":"百万资源🔞",
+    "url":"https://api.bwzym3u8.com/api.php/provide/vod/?ac=list",
+    "show":true,
+    "search":true
   },
   {
     "name":"鸡坤资源🔞",
